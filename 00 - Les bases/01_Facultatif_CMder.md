@@ -2,7 +2,7 @@
 
 ### FACULTATIF
 
-Si vous souhaitez utiliser un emulateur de console sympa et qui s'integre bien a git je vous conseil d'installer
+Si vous souhaitez utiliser un émulateur de console sympa et qui s'intègre bien avec git je vous conseil d'installer
 
 > https://cmder.app
 
